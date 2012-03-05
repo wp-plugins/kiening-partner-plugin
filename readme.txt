@@ -1,7 +1,7 @@
 === Kiening-Partner-Plugin ===
 Contributors: tuxlog
 Donate link: http://www.kiening.eu
-Tags: kiening, widget, partner, program
+Tags: kiening,widget,partner,programm,methode,selbstcoaching
 Requires at least: 2.7
 Tested up to: 3.3.1
 Stable tag: 0.7
@@ -16,7 +16,6 @@ Weiterhin können kleine Link-Logos auf jeder Seite, jedem Artikel eingeblendet 
 Zur Verwendung des Plugins benötigen Sie eine Kiening-Partner-ID, die Sie unter http://www.kiening.eu/partner
 beantragen können.
 
-Credits:
 
 == Installation ==
 
@@ -29,12 +28,6 @@ Credits:
 == Translations ==
    Das Kiening Partner-Plugin gibt es nur für den deutschsprachigen Raum.
    
-
-== Screenshots ==
-1. Keaning Widget big
-2. Keaning Widget middle
-3. Keaning Widget small
-
 
 == Changelog ==
 
