@@ -28,6 +28,9 @@ beantragen können.
 == Translations ==
    Das Kiening Partner-Plugin gibt es nur für den deutschsprachigen Raum.
    
+== Screenshots ==
+1. Kiening Widget
+2. Kiening Widget and Logo
 
 == Changelog ==
 
