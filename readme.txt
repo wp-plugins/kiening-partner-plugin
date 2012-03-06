@@ -6,9 +6,9 @@ Requires at least: 2.7
 Tested up to: 3.3.1
 Stable tag: 0.7
 
-The Kiening-Partner-Plugin is a Widget showing a banner link and / or a badge in every post 
-for the Kiening partner program.
-It should only be used in german speaking regions.
+The Kiening-Partner-Plugin is a Widget showing a banner link and/or 
+a badge in every post for the Kiening partner program.
+
 
 == Description ==
 Sie lesen die Datei readme.txt zum Kiening-Partner-Plugin
