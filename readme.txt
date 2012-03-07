@@ -1,14 +1,13 @@
 === Kiening-Partner-Plugin ===
 Contributors: tuxlog
 Donate link: http://www.kiening.eu
-Tags: kiening,widget,partner,programm,methode,selbstcoaching
+Tags: kiening, widget, partner, program
 Requires at least: 2.7
 Tested up to: 3.3.1
-Stable tag: 0.7
+Stable tag: 0.8
 
-The Kiening-Partner-Plugin is a Widget showing a banner link and/or 
-a badge in every post for the Kiening partner program.
-
+The Kiening-Partner-Plugin is a Widget showing a banner link and / or a badge in everey post 
+for the Kiening partner program and should be used only in german speaking regions.
 
 == Description ==
 Sie lesen die Datei readme.txt zum Kiening-Partner-Plugin
@@ -17,6 +16,7 @@ Weiterhin können kleine Link-Logos auf jeder Seite, jedem Artikel eingeblendet 
 Zur Verwendung des Plugins benötigen Sie eine Kiening-Partner-ID, die Sie unter http://www.kiening.eu/partner
 beantragen können.
 
+Credits:
 
 == Installation ==
 
@@ -29,11 +29,17 @@ beantragen können.
 == Translations ==
    Das Kiening Partner-Plugin gibt es nur für den deutschsprachigen Raum.
    
+
 == Screenshots ==
-1. Kiening Widget
-2. Kiening Widget and Logo
+1. Keaning Widget big
+2. Keaning Widget middle
+3. Keaning Widget small
+
 
 == Changelog ==
+
+= v0.8 (2012-03-06) =
+* added thickbox info for affiliate info
 
 = v0.7 (2012-02-05) =
 * Initial release 

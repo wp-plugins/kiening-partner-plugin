@@ -4,7 +4,7 @@ Plugin Name: Kiening-Partner-Plugin
 Plugin URI: http://www.kiening.eu
 Description: Das Kiening-Partner-Plugin stellt ein Widget und die Möglichkeit ein Kiening Logo in Seiten und Artikeln anzuzeigen bereit. 
 			 Die optimale Blog-ergänzung für alle die am Kiening Partner Program unter http://www.kiening.eu/partner teilnehmen.
-Version: 0.7
+Version: 0.8
 Author: Hans Matzen
 Author URI: http://www.tuxlog.de
 */

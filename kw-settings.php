@@ -108,8 +108,10 @@ function kw_register_settings(){
  * Group scripts (js & css)
  */
 function kw_settings_scripts(){
+	wp_enqueue_script( 'thickbox' );
+	wp_enqueue_style ( 'thickbox' );
 	wp_enqueue_script( 'kw_settings_js', plugin_dir_url( __FILE__ ) . '/kw_settings.js', array('jquery'));
-	wp_enqueue_style( 'kw_settings_css', plugin_dir_url( __FILE__ ) . '/kw_settings.css');
+	wp_enqueue_style ( 'kw_settings_css', plugin_dir_url( __FILE__ ) . '/kw_settings.css');
 }
 
 /**
@@ -284,7 +286,8 @@ function kw_settings_page_fn() {
   		   Weiterhin können kleine Link-Logos auf jeder Seite, jedem Artikel eingeblendet werden.
 		   Zur Verwendung des Plugins benötigen Sie eine Kiening-Partner-ID, die Sie unter <a href="http://www.kiening.eu/partner" title="Kiening Partner Programm" target="_blank">http://www.kiening.eu/partner</a>
 		   beantragen können.</p>
-	
+		<p style="text-align:center;"><a class="button-secondary thickbox" href="http://www.kiening.eu/partner/provisionsmodell.php?KeepThis=true&TB_iframe=true&height=510&width=800">Informationen zum Provisionsmodell von Kiening Metaconsulting</a></p>
+	 
 		<form action="options.php" method="post">
 			<?php 
 			// http://codex.wordpress.org/Function_Reference/settings_fields
