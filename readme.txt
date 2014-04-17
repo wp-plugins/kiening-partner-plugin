@@ -3,7 +3,7 @@ Contributors: tuxlog
 Donate link: http://www.kiening.eu
 Tags: kiening, widget, partner, program
 Requires at least: 2.7
-Tested up to: 3.3.1
+Tested up to: 3.9
 Stable tag: 0.8
 
 The Kiening-Partner-Plugin is a Widget showing a banner link and / or a badge in everey post 
